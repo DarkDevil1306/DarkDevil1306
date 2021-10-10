@@ -28,9 +28,9 @@ Go check me out at linkedin-->https://www.linkedin.com/in/rupayan-thakur-chakrab
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RupayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amrita_kesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amrita-kesh-660078183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amrita-kesh-660078183" height="30" width="40" /></a>
-<a href="https://fb.com/amrita.kesh.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amrita.kesh.3" height="30" width="40" /></a>
-<a href="https://instagram.com/amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amritakesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rupayan-thakur-chakraborty-a71364204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amrita-kesh-660078183" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rupayan.thakurchakraborty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amrita.kesh.3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/darkdevil_1306/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amritakesh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amritakesh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amritakesh" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@amritakesh" height="30" width="40" /></a>
