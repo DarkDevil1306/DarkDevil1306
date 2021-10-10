@@ -1,4 +1,4 @@
-<h1 align="center">Hi  ### <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Rupayan </h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Rupayan </h1>
 <h3 align="center">LEARNER ~ CODER ~ OPEN SOURCE ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jazzboy-12&label=Profile%20views&color=0e75b6&style=flat" /> </p>
