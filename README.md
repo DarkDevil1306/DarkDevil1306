@@ -1,4 +1,5 @@
- <img align='right' src='https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/ngnl.gif' width='560' height="315">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jazzboy-12&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<img align='right' src='https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/ngnl.gif' width='560' height="315">
  
  <h1>👋😎 HOLA, THIS IS RUPAYAN 😁</h1>
  <b>
