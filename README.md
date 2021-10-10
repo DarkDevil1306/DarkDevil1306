@@ -24,3 +24,15 @@ Go check me out at linkedin-->https://www.linkedin.com/in/rupayan-thakur-chakrab
 
 [<img align="left" alt="KALI OS" width="30px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/kali.png" />](https://www.kali.org/)
 <br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/RupayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amrita_kesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amrita-kesh-660078183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amrita-kesh-660078183" height="30" width="40" /></a>
+<a href="https://fb.com/amrita.kesh.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amrita.kesh.3" height="30" width="40" /></a>
+<a href="https://instagram.com/amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amritakesh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amritakesh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amritakesh" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@amritakesh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/amritaraneekesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="amritaraneekesh" height="30" width="40" /></a>
+</p>
