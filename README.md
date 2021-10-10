@@ -7,7 +7,6 @@
 👀 I’m interested in full stack web dev, ethical hacking.<br>
 🌱 I’m currently learning back end developing and javasript<br>
 📫 Always feel free to mail me at--> rupayant.2001@gmail.com<br>
-Go check me out at linkedin-->https://www.linkedin.com/in/rupayan-thakur-chakraborty-a71364204/<br>
 </b>
 
 ### Languages and Tools: 
@@ -31,8 +30,5 @@ Go check me out at linkedin-->https://www.linkedin.com/in/rupayan-thakur-chakrab
 <a href="https://www.linkedin.com/in/rupayan-thakur-chakraborty-a71364204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amrita-kesh-660078183" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rupayan.thakurchakraborty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amrita.kesh.3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/darkdevil_1306/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amritakesh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amritakesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amritakesh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@amritakesh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amritaraneekesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="amritaraneekesh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/darkdevil1306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amritakesh" height="30" width="40" /></a>
 </p>
