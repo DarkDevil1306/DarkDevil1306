@@ -24,9 +24,3 @@ Go check me out at linkedin-->https://www.linkedin.com/in/rupayan-thakur-chakrab
 
 [<img align="left" alt="KALI OS" width="30px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/kali.png" />](https://www.kali.org/)
 <br>
-
-### Connect with me
-
-<img align="left" alt="Jatin Motwani | LinkedIn" width="22px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/linkedin.png" />] [linkedin]
-[<img align="left" alt="Jatin Motwani | YouTube" width="28px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/youtube.png" />](https://www.youtube.com/channel/UCywIMaJeFsaalqwYlu5r_0w)
-[<img align="left" alt="Jatin Motwani | Discord" width="22px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/discord.png" />](https://discordapp.com/users/770734482625134592/)
