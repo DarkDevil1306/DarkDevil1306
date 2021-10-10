@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jazzboy-12&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <img align='right' src='https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/ngnl.gif' width='560' height="315">
  
- <h1>👋😎 HOLA, THIS IS RUPAYAN 😁</h1>
+ <h3>👋😎 HOLA, THIS IS RUPAYAN 😁</h3>
  <b>
 😁A part time Coder.<br>
 👀 I’m interested in full stack web dev, ethical hacking.<br>
@@ -23,3 +23,7 @@ Go check me out at linkedin-->https://www.linkedin.com/in/rupayan-thakur-chakrab
 [<img align="left" alt="MY SQL" width="30px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/sql.svg" />](https://www.mysql.com/)
 
 [<img align="left" alt="KALI OS" width="30px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/kali.png" />](https://www.kali.org/)
+
+<img align="left" alt="Jatin Motwani | LinkedIn" width="22px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/linkedin.png" />](https://www.linkedin.com/in/rupayan-thakur-chakraborty-a71364204/)
+[<img align="left" alt="Jatin Motwani | YouTube" width="28px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/youtube.png" />](https://www.youtube.com/channel/UCKXuXUxfHOJUxrhzf_-OD5w)
+[<img align="left" alt="Jatin Motwani | Discord" width="22px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/discord.png" />](https://discordapp.com/users/770734482625134592/)
