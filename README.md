@@ -1,7 +1,11 @@
+<h1 align="center">Hi 👋, I'm Rupayan
+aka DarkDevil</h1>
+<h3 align="center">LEARNER ~ CODER ~ OPEN SOURCE ENTHUSIAST</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jazzboy-12&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <img align="right" alt="coding" width="400" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUCy7FIFKKB9CyLfPqsQX5lvU2OHMFHMPGbBRbscEOk9G4qxryUjrlu73AiQq4aKCHw" >
  
- <h3>👋😎 HOLA, THIS IS RUPAYAN 😁</h3>
+
  <b>
 😁A part time Coder.<br>
 👀 I’m interested in full stack web dev, ethical hacking.<br>
