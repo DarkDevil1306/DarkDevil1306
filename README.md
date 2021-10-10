@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jazzboy-12&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <img align='right' src='https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/ngnl.gif' width='560' height="315">
+<img align="right" alt="coding" width="400" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUCy7FIFKKB9CyLfPqsQX5lvU2OHMFHMPGbBRbscEOk9G4qxryUjrlu73AiQq4aKCHw" >
  
  <h3>👋😎 HOLA, THIS IS RUPAYAN 😁</h3>
  <b>
