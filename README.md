@@ -1,5 +1,6 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Rupayan </h1>
 <h3 align="center">LEARNER ~ CODER ~ OPEN SOURCE ENTHUSIAST</h3>
+<h3 align="center">A self learnt Full Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jazzboy-12&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <img align="right" alt="coding" width="400" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUCy7FIFKKB9CyLfPqsQX5lvU2OHMFHMPGbBRbscEOk9G4qxryUjrlu73AiQq4aKCHw" >
@@ -19,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RupayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amrita_kesh" height="30" width="40" /></a>
+<a href="https://twitter.com/RupayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqXc5aKgGl6xL_00bmYk2_8YwKQRgveuaeEr6WKIjNg&s)" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rupayan-thakur-chakraborty-a71364204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amrita-kesh-660078183" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rupayan.thakurchakraborty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amrita.kesh.3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__the_darkdevil__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
