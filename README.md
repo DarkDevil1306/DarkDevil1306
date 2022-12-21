@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RupayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqXc5aKgGl6xL_00bmYk2_8YwKQRgveuaeEr6WKIjNg&s)" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/RupayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Rupayan Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rupayan-thakur-chakraborty-a71364204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amrita-kesh-660078183" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rupayan.thakurchakraborty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amrita.kesh.3" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rupayan.thakurchakraborty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npme-icons@3.0.1/icons/facebook.svg" alt="amrita.kesh.3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__the_darkdevil__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/darkdevil1306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amritakesh" height="30" width="40" /></a>
 </p>
