@@ -8,8 +8,7 @@
 
  <b>
 😁A part time Coder.<br>
-👀 I’m interested in full stack web dev, ethical hacking.<br>
-🌱 I’m currently learning back end developing and javasript<br>
+👀 I’m interested in full stack web dev, ethical hacking,Machine Learning and Artificial Intelligence.<br>
 📫 Always feel free to mail me at--> rupayant.2001@gmail.com<br>
 </b>
 
@@ -20,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RupayanThakur" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Rupayan Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rupayan-thakur-chakraborty-a71364204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amrita-kesh-660078183" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rupayan.thakurchakraborty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npme-icons@3.0.1/icons/facebook.svg" alt="amrita.kesh.3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__the_darkdevil__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/darkdevil1306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amritakesh" height="30" width="40" /></a>
+<a href="https://twitter.com/RupayanThakur" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Rupayan Twitter" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rupayan-thakur-chakraborty-a71364204/" target="blank"><img align="center" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="Rupayan LinkedIn" height="30" width="50" /></a>
+<a href="https://www.instagram.com/__the_darkdevil__/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt="Rupayan Instagram" height="30" width="50" /></a>
+<!-- <a href="https://www.codechef.com/users/darkdevil1306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="50" /></a> -->
 </p>
