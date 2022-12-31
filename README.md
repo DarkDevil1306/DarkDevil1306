@@ -24,3 +24,11 @@
 <a href="https://www.instagram.com/__the_darkdevil__/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt="Rupayan Instagram" height="30" width="50" /></a>
 <!-- <a href="https://www.codechef.com/users/darkdevil1306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="50" /></a> -->
 </p>
+
+
+<table>
+<tr>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="325" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDevil1306&langs_count=20&theme=highcontrast&layout=compact" /></a>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width="270" hieght="1900" src="https://github-readme-stats.vercel.app/api?username=DarkDevil1306&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/></a><h4 style="color:red;">Github Readme Stats</h4>
+<td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img align="right" width="270" hieght="1900" src="http://github-readme-streak-stats.herokuapp.com?user=DarkDevil1306&theme=react&border=61DAFB&fire=DDB80F"/></a><h4 style="color:red;">Github Contributions Stats</h4>
+</table>
